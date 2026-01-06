@@ -40,8 +40,8 @@ To improve incident visibility, I utilized a **SIEM Dashboard** that aggregated 
 ![SIEM Dashboard](./Screenshots/SIEM_Dashboard.png)
 </details>
 
-### 4. Secondary Security Findings (Logons & Network)
-A review of authentication logs revealed suspicious failed login patterns. These findings suggest potential brute-force attempts which may have served as the initial entry vector for the identified malware.
+### 4. Secondary Security Findings (Logons)
+A review of authentication logs revealed suspicious failed login patterns. These patterns suggest potential brute-force attempts which may have served as the initial entry vector for the identified malware.
 <details>
 <summary><b>Click to view Secondary Findings Screenshot</b></summary>
 
