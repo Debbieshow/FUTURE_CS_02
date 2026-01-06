@@ -1,0 +1,6 @@
+title,priority,search
+Ransomware Behaviour,1,"host =""WIN-08TJOV6NBK0"" action=""malware*"" threat=""ransomware*"""
+Rootkit Signature,1,"host =""WIN-08TJOV6NBK0"" action=""malware*"" threat=""rootkit*"""
+Trojan Detected,2,"host =""WIN-08TJOV6NBK0"" action=""malware*"" threat=""trojan*"""
+Worm Infection Attempt,2,"host =""WIN-08TJOV6NBK0"" action=""malware*"" threat=""Worm*"""
+Spyware Alert,3,"host =""WIN-08TJOV6NBK0"" action=""malware*"" threat=""spyware*"""
