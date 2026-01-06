@@ -54,7 +54,7 @@ A review of authentication logs revealed suspicious failed login patterns. These
 ## 📂 Deliverables
 
 ### 📝 Reports & Logs
-* **[Incident Response Report (PDF)](./Reports/Incident_Response_Report.pdf):** Detailed analysis, findings, and remediation strategies.
+* **[Incident Response Report (PDF)](./Report/Incident_Response_Report.pdf):** Detailed analysis, findings, and remediation strategies.
 * **[Alert Classification Log (MD)](./Logs/Alert_Classification.md):** A technical mapping of alerts to severity and priority levels.
 
 ### 🖼️ Visual Evidence
